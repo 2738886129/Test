@@ -6,6 +6,11 @@ void hello()
 	cout << "HelloWorld!" << endl;
 }
 
+void word()
+{
+	cout<<"word"<<endl;
+}
+
 void main()
 {
 
