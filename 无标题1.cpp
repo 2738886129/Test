@@ -11,6 +11,11 @@ void word()
 	cout<<"word"<<endl;
 }
 
+void SB(String I)
+{
+	cout<<I<<"AM SB"<<endl;
+}
+
 void main()
 {
 	hello();
