@@ -14,7 +14,7 @@ void word()
 void SB(String I)
 {
 	I = "尚宇航";
-	I ="zhangshilei"；
+//	I ="zhangshilei"；
 	cout<<I<<" IS SB"<<endl;
 }
 
@@ -22,5 +22,6 @@ void main()
 {
 	hello();
 	word();
+	SB("");
 }
 
