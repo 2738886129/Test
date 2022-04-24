@@ -13,7 +13,8 @@ void word()
 
 void SB(String I)
 {
-	cout<<I<<"AM SB"<<endl;
+	I = "尚宇航";
+	cout<<I<<" IS SB"<<endl;
 }
 
 void main()
