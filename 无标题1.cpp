@@ -11,10 +11,6 @@ void word()
 	cout<<"word"<<endl;
 }
 
-void SB(String I)
-{
-}
-
 void main()
 {
 	hello();
