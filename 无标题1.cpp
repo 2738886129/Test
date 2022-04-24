@@ -13,6 +13,7 @@ void word()
 
 void main()
 {
-
+	hello();
+	word();
 }
 
